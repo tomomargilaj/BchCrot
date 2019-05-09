@@ -105,7 +105,7 @@ try:
   UravxBuCwNMpYWTzKhPt()
   if UravxBuCwNMpYWTzKhPg(UravxBuCwNMpYWTzKhPs)<2:
    UravxBuCwNMpYWTzKhPI(" \033[1;91mUsage\033[0m: python main.py phone_number",end="\n\n")
-   UravxBuCwNMpYWTzKhPI(" phone_number must be write in internasional \n format (example: +6283174705555)\n")
+   UravxBuCwNMpYWTzKhPI(" phone_number must be write in internasional \n format (example: +38269586856)\n")
    UravxBuCwNMpYWTzKhRA(1)
   UravxBuCwNMpYWTzKhcl=UravxBuCwNMpYWTzKhcI(UravxBuCwNMpYWTzKhPs[1])
   await UravxBuCwNMpYWTzKhcl.start(UravxBuCwNMpYWTzKhPs[1])
